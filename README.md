@@ -1,0 +1,2 @@
+# PhyCalc
+Physics formula tool.
